@@ -75,3 +75,5 @@ python manage.py migrate
 python manage.py runserver
 
 La clasificación funciona localmente siempre que las variables de entorno AWS estén configuradas correctamente y LAMBDA_URL apunte al endpoint de API Gateway desplegado.
+
+https://github.com/user-attachments/assets/be97014d-a09f-4f90-8911-db1c943e13ca
